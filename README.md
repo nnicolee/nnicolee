@@ -1,16 +1,72 @@
-## Hi there 👋
+# hi, i'm nicole! ✧
 
-<!--
-**nnicolee/nnicolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm an electrical engineering & computer sciences student at uc berkeley who's passionate about building thoughtful, user-centered products.
 
-Here are some ideas to get you started:
+i love working at the intersection of engineering, product, and user experience, turning complex technical problems into simple, meaningful solutions that make people's lives easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+previously @ **google** and **amazon**, working on developer infrastructure, distributed systems, and full-stack development.
+
+---
+
+### tech stack ⋆.˚☁️⋆
+
+**languages**  
+`Java` `Python` `C` `C++` `SQL` `JavaScript` `TypeScript` `HTML` `CSS` `Kotlin` `Scheme` `Go` `Rust` `Verilog`
+
+**frameworks & tools**  
+`React` `Node.js` `Flask` `Django` `Next.js` `Git` `Docker` `Linux` `DynamoDB` `Amazon S3` `PostgreSQL` `AWS CDK`
+
+**machine learning**  
+`pandas` `NumPy` `Matplotlib` `PyTorch` `TensorFlow` `scikit-learn` `SciPy`
+
+---
+
+### experience ⋆.˚☁️⋆
+
+**google | software engineering intern**  
+*summer 2026*
+
+- extended Google Cloud's Java code-generation infrastructure with JSpecify null-safety across 200+ client libraries
+- developed automated migration tooling in Python to standardize null-safety adoption across Java SDKs
+
+**amazon | software development engineering intern**  
+*summers 2024 & 2025*
+
+- developed full-stack infrastructure using React, Kotlin, and AWS CDK
+- implemented real-time cache invalidation for distributed inventory systems
+- built internal APIs, automation, and developer tools
+
+---
+
+### selected projects ⋆.˚☁️⋆
+
+**secure file sharing system**  
+`Go`  
+built an encrypted file-sharing platform with access controls, secure invitations, and revocable sharing.
+
+**s1xt33n | voice-controlled car**  
+`C++` `Python` `MATLAB` `Arduino`  
+designed a voice-controlled vehicle using audio processing, PCA-based classification, and closed-loop control systems.
+
+**pintos operating system**  
+`C`  
+implemented priority-based scheduling, synchronization, a Unix-like file system, and an LRU buffer cache.
+
+---
+
+### beyond coding ⋆.˚☁️⋆
+
+when i'm not coding, you'll probably find me...
+
+- playing poker or random brain-teasers ♠
+- planning my next trip ᯓ ✈︎
+- exploring cute cafés and trying new drinks ☕︎
+- playing genshin impact (｡•̀ᴗ-)✧
+- finding something new to learn ♡
+
+---
+### let's connect! ♡
+
+[linkedin](https://linkedin.com/in/nicolelee7887) · [email](mailto:nicolelee1@berkeley.edu) · [github](https://github.com/nnicolee)
+
+
