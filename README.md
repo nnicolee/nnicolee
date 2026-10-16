@@ -2,9 +2,9 @@
 
 i'm an electrical engineering & computer sciences student at uc berkeley who's passionate about building thoughtful, user-centered products.
 
-i love working at the intersection of engineering, product, and user experience, turning complex technical problems into simple, meaningful solutions that make people's lives easier.
+i love working at the intersection of engineering and user experience, building thoughtful, user-centered solutions to complex technical problems. i'm especially interested in low-level systems, computer architecture, and how hardware and software come together to power the technology we use every day!
 
-previously @ **google** and **amazon**, working on developer infrastructure, distributed systems, and full-stack development.
+previously @ **google** and **amazon/aws**, working on developer infrastructure, distributed systems, and full-stack development.
 
 ---
 
@@ -22,6 +22,11 @@ previously @ **google** and **amazon**, working on developer infrastructure, dis
 ---
 
 ### experience ⋆.˚☁️⋆
+
+**amazon web services (aws) | software development engineering intern**  
+*fall 2026*
+
+- working on uEMU, the virtual emulation component of EC2 nitro
 
 **google | software engineering intern**  
 *summer 2026*
